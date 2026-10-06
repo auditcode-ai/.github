@@ -2,8 +2,7 @@
 
 Code security research and verified audits. We find vulnerabilities that span multiple modules — the class per-file scanners routinely miss — using cross-module data-flow analysis, and reproduce every finding by hand before anyone is contacted.
 
-**Track record:** 21 coordinated disclosures · 15 CVEs · 16 Linux kernel fixes backported to 92 stable branches · advisories in Plane, ZITADEL and vLLM.
-Full list with external links → [auditcode.ai/research](https://auditcode.ai/research)
+**Track record:** 15 CVEs · 16 Linux kernel fixes backported to 92 stable branches. Full list with external links → [auditcode.ai/research](https://auditcode.ai/research)
 
 **Audits:** we run the same engine on client codebases and deliver only confirmed vulnerabilities, with severity and fix guidance. Request an audit → contact@auditcode.ai
 
