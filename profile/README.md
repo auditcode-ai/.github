@@ -3,6 +3,7 @@
 Code security research and verified audits. We find vulnerabilities that span multiple modules — the class per-file scanners routinely miss — using cross-module data-flow analysis, and reproduce every finding by hand before anyone is contacted.
 
 **Track record:** 15 CVEs · 16 Linux kernel fixes backported to 92 stable branches. Full list with external links → [auditcode.ai/research](https://auditcode.ai/research)
+**Kernel commits:** all mainline commits authored from @auditcode.ai → [git.kernel.org](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=auditcode)
 
 **Audits:** we run the same engine on client codebases and deliver only confirmed vulnerabilities, with severity and fix guidance. Request an audit → contact@auditcode.ai
 
